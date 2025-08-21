@@ -43,7 +43,7 @@ This project uses the **NewsAPI** to get real-time news articles and displays th
 
 1. Clone this repository:
 
-        git clone https://github.com/USERNAME/REPO_NAME.git
+        https://github.com/faizanfk01/News-Fetcher-App.git
 
 2. Navigate to the project folder:
 
